@@ -1,1 +1,12 @@
-
+<ID>123</ID>
+<Summery>Resume expired session</Summery>
+<Issue_type>Error</Issue_type>
+<Description>
+    <Steps_to_reproduce>1. Open general statistic 2. Load some data 3. Wait till session (authorization) expired 4. Make some changes in parameters 5. Try to load data</Steps_to_reproduce>
+    <Actual_result>the page is seen, user is loggeg in</Actual_result>
+    <Expected_result>the start page is seen, a user is logged out</Expected_result>
+</Description>
+<Priority>trivial</Priority>
+<Assignee>A.Petrov</Assignee>
+<QA>L.Samoilenko</QA>    
+<Attachment>123.jpeg</Attachment>
