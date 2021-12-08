@@ -1,0 +1,9 @@
+	<theory>test documentation</theory>
+	<server>requests</server>
+	<xml>structure</xml>
+	<console>logs</console>
+	<charles>sniffing</charles>
+	<SQL>delete, insert, select, join</SQL>
+	<postman>writing auto tests</postman>
+	<terminal>Linux</terminal>
+
