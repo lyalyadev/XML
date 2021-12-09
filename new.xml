@@ -1,8 +1,11 @@
-	<first_name>Lyalya<first_name>
-	<last_name>Samoilenko</last_name>
-	<age>35</age>
-	<occupation>QA Tester</occupation>
-	<pets>no pets</pets>
-	<kids>
-		<daughter>Lisa</daughter> <son>Illia</son>
-	</kids>	
+	<about_myself>	
+		<first_name>Lyalya<first_name>
+		<last_name>Samoilenko</last_name>
+		<age>35</age>
+		<occupation>QA Tester</occupation>
+		<pets>no pets</pets>
+		<kids>
+			<daughter>Lisa</daughter> 
+			<son>Illia</son>
+		</kids>
+	</about_myself>
